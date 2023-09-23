@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charmi Varsani</h1>
 <h3 align="center">Welcome to Charmi's Profile, a passionate computer science enthusiast known for embodying discipline, hard work, and a helpful spirit. I am on a continuous journey of exploration and discovery, fueled by curiosity and a thirst for knowledge. Join me as we navigate the vast and exciting world of technology together! 😉</h3>
+                                                                                                                                                                                                                           
 
+                
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/varsanicharmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="varsanicharmi" height="30" width="40" /></a>
